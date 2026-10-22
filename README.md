@@ -15,6 +15,9 @@ Welcome to my portfolio! This repository documents the architecture, automation,
 ## 🎛️ Automation, Scripting & Orchestration
 *   **Scripting:** Engineered custom Python and Windows Batch (.bat) scripts to handle backend server processes, log aggregation, and system maintenance.
 *   **Task Scheduling:** Deployed system-level automation routines utilizing Task Manager (Windows) and Cron utilities (Linux) to manage cron jobs and automated file updates.
+*   **Cloud API Integration:** Engineered an automated, scheduled Python pipeline utilizing the Google Drive API to enforce data preservation and business continuity for media assets.
+*   **Data Pipeline & Compression:** Script handles automated directory scanning of active project paths, packages raw source assets into compressed archive formats (.zip), and handles secure programmatic uploads to cloud infrastructure endpoints.
+*   **Task Scheduling:** Deployed system-level automation routines utilizing Task Manager (Windows) and Cron utilities (Linux) to manage script execution persistence and automated system updates.
 
 ## 🌐 Advanced Traffic Engineering & Network Security
 *   **Layer 2 Deployment:** Integrated a physical managed network switch to aggregate high-bandwidth multimedia and gaming infrastructure, separating localized data frames from wireless environments.
